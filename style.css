@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #f2f2f2;
+}
+.container-header {
+  width: 100%;
+  margin: 0;
+  height: 240px;
+  box-sizing: border-box;
+  background-color: #4b4b4b;
+}
+.container-section {
+  width: 100%;
+  height: 590px;
+  background-color: #f2f2f2;
+}
+.container-footer {
+  width: 100%;
+  height: 170px;
+  background-color: #4b4b4b;
+}
+.content-header-image {
+  width: 70%;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+  color: #ffffff;
+}
+.content-header-title {
+  width: 70%;
+  height: 140px;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  color: #ffffff;
+  background-color: #283994;
+}
+.content-section-body {
+  width: 70%;
+  box-sizing: border-box;
+  height: 550px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.content-section-title {
+  width: 100%;
+  height: 100px;
+  margin: 0 auto;
+}
+.content-section-button {
+  width: 100%;
+  height: 140px;
+  text-align: center;
+  margin: 0 auto;
+}
+.content-section-footer {
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.content-footer {
+  width: 70%;
+  height: 170px;
+  margin: 0 auto;
+  font-size: 18px;
+  padding-top: 10px;
+  text-align: center;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+.header-image {
+  padding-top: 8px;
+  height: 80px;
+}
+.title-text {
+  width: 100%;
+  padding-top: 40px;
+}
+.section-title {
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+  font-size: 18px;
+  padding-top: 40px;
+  font-family: sans-serif;
+}
+.warning {
+  color: #eb2d40;
+}
+.link-button {
+  text-decoration: none;
+}
+.section-button {
+  width: 200px;
+  height: 60px;
+  border: 0 none;
+  color: #ffffff;
+  outline: 0;
+  margin: 20px auto;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  box-shadow: 0 0 0 0;
+  background-color: #4b4b4b;
+}
+.section-button:hover {
+  background-color: #636363;
+  cursor: pointer;
+}
+.section-text {
+  width: 90%;
+  height: 90px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.link-text {
+  text-decoration: none;
+  color: #283994;
+}
